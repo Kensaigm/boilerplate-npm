@@ -1,8 +1,6 @@
 {
-	"author": {
-		"name": "KensaiGM"
-	},
 	"name": "fcc-learn-npm-package-json",
+	"author": "KensaiGM",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
